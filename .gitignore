@@ -1,0 +1,27 @@
+*.rar
+*.m
+*.png
+
+/experimento_09e
+/Materiais
+/STM32
+/meel
+/Aula_09_Andressa
+/*/aula doutorado
+/*/Latex
+/*/Aula_06
+/*/Aula_05*
+/*/Aula_04*
+/*/Aula_03*
+/*/Aula_02*
+/*/Aula_01*
+/*/Debug
+
+*.co*
+*.xml
+*.tsp
+*.tsc
+
+/*/logs
+/*/Andressa
+/*/Relatorio
